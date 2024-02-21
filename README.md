@@ -26,6 +26,7 @@
       <li>git remote add origin &lt;repo link&gt;</li>
       <li>git remote set-url origin https://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@github.com/saliqkitab10/&lt;repo name&gt;</li>
       <li>git push origin main</li>
+      <li>setting > developer setting > personal access tokens > tokens > generate new token and get the link</li>
     </ul>
   </li>
 </ul>
