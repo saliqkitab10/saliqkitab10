@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saliq Arshid</h1>
 <h3 align="center">A Final Year Student from Ramaiah Institute of Technology Bengaluru</h3>
 
-- 👨‍💻 All of my projects are available at [https://shorturl.at/rx689]([https://www.linkedin.com/in/saliqarshid10/])
+- 👨‍💻 All of my projects are available at ([https://www.linkedin.com/in/saliqarshid10/])
 
 - 📫 How to reach me **saliqkitab10@gmail.com**
 
